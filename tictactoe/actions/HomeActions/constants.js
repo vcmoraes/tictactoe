@@ -1,0 +1,2 @@
+export const SET_SELECTED_ITEM = 'SET_SELECTED_ITEM'
+export const CLEAN_GAME = 'CLEAN_GAME'
